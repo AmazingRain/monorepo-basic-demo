@@ -1,0 +1,17 @@
+{
+  "name": "monorepo_demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "monorepo demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
