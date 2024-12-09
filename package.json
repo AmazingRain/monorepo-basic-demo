@@ -1,8 +1,7 @@
 {
-  "name": "monorepo_demo",
+  "name": "monorepo-basic-demo",
   "version": "1.0.0",
-  "private": true,
-  "description": "monorepo demo",
+  "description": "monorepo-basic-demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
